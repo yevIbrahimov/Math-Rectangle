@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJ+V9SQ1hbDF9hH2fyq36F3TkBfBVhBooEAZVV4ebRd2j9CZdA2Kl67PTRZwxofMnW8pPO4MKhcat5/4uBxRxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\Ractangle\\Rectangle.Impl\\Rectangle.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
